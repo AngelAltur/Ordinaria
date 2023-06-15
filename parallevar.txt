@@ -3,5 +3,9 @@ Pasta de dientes
 toallas 
 maletas
 chanclas y bañador
+<<<<<<< HEAD
 tablet y portatil
 disco portatil
+=======
+camiseta hawaiana, gafas de sol
+>>>>>>> master
